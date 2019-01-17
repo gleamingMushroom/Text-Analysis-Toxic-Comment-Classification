@@ -2,7 +2,7 @@
 
 [Solution to Featured Prediction Competition / Toxic Comment Classification Challenge on Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 
-# Machine Learning Project - Text Analysis - Toxic Comment Classification
+### Machine Learning Project - Text Analysis - Toxic Comment Classification
 
 > This is a text analysis project from Kaggle.
 > Being provided with a large number of Wikipedia comments which have been labeled by human raters for toxic behavior. The objective of this project is to create a model which predicts a probability of each type of toxicity for each comment. The types of toxicity are:

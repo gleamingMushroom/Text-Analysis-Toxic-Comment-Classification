@@ -1,6 +1,6 @@
 ![Kaggle Challenge](https://github.com/gleamingMushroom/Text-Analysis-Toxic-Comment-Classification/blob/master/Kaggle%20Image.png)
-
-[Solution to Featured Prediction Competition / Toxic Comment Classification Challenge on Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
+Solution to Featured Prediction Competition / Toxic Comment Classification Challenge on [Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)  
+***
 
 ### Machine Learning Project - Text Analysis - Toxic Comment Classification
 

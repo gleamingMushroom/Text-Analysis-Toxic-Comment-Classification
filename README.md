@@ -1,6 +1,6 @@
-![Kaggle Challenge](https://github.com/gleamingMushroom/Text-Analysis-Toxic-Comment-Classification/blob/master/kaggle%20image.png)
+![Kaggle Challenge](https://github.com/gleamingMushroom/Text-Analysis-Toxic-Comment-Classification/blob/master/Kaggle%20Image.png)
 
-_[Solution to Featured Prediction Competition / Toxic Comment Classification Challenge on Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
+[Solution to Featured Prediction Competition / Toxic Comment Classification Challenge on Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 
 # Machine Learning Project - Text Analysis - Toxic Comment Classification
 
@@ -14,10 +14,8 @@ _[Solution to Featured Prediction Competition / Toxic Comment Classification Cha
 * insult
 * identity_hate
 
+> Datasets include a training set and a test set of labeled comments.   
 
-### Data Description
-
-> Datasets include a training set and a test set of labeled comments. 
 * train.csv - the training set, contains comments with their binary labels.
 * test.csv - the test set. 
 

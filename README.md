@@ -19,7 +19,7 @@
 * train.csv - the training set, contains comments with their binary labels.
 * test.csv - the test set. 
 
-### [Data Preprocessing & Model Development](https://github.com/gleamingMushroom/Text-Analysis-Toxic-Comment-Classification/blob/master/toxic%20comment%20classification%20presentation%20slides.pdf)  
+#### [Data Preprocessing & Model Development](https://github.com/gleamingMushroom/Text-Analysis-Toxic-Comment-Classification/blob/master/toxic%20comment%20classification%20presentation%20slides.pdf)  
 
-### Python Coed: 
+#### Python Code: 
 * [Jupyter Notebook 1](https://github.com/gleamingMushroom/Text-Analysis-Toxic-Comment-Classification/blob/master/Code%20Python.ipynb)
